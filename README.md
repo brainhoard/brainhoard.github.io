@@ -1,4 +1,4 @@
-Initial commit
+BRAINHOARD
 ===
 
-Initial commit
+[Brain](docs/assets/images/logo.png)
